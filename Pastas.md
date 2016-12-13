@@ -25,11 +25,14 @@
 - Prestação de contas
 - Emissão de notas
 
-## Apoio ao Desenvolvedor
+## Apoio a comunidade e palestrantes
 
-- Procurar pessoas que possam ser organizadores de caravanas para nossos eventos e coordenar caravanas
-- CheckIn e portaria dos eventos
 - Verificar interesse em eventos e coletar feedback dos participantes
 - Analisar ações necessárias para maior engajamento dos desenvolvedores nos eventos
+- Procurar pessoas que possam ser organizadores de caravanas para nossos eventos e coordenar caravanas
+
+## Logística
+- Verificar itens necessários para realização de eventos
 - Emissão de certificados
 - Organizar grupos regionais do DevParaná
+- CheckIn e portaria dos eventos
